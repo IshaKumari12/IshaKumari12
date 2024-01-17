@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Isha Kumari
+# 👋 Hello there! I'm Isha Kumari.
 # 💫 About Me:
 👋 Hi, I’m Isha Kumari<br>👀 I’m interested in the field of Artificial Intelligence<br>🔭 I’m currently working on a few Web Development and Machine learning projects<br>👯 I’m looking forward to explore new Technologies<br> 📚 Fun fact: I am into fitness and I am a Fitness Content Creator
 
@@ -16,6 +16,7 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <div align="left">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
